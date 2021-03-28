@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "applicants",
+  "info": {
+    "name": "Applicants",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": false
+  },
+  "attributes": {}
+}
